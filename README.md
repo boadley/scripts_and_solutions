@@ -1,5 +1,5 @@
 # scripts_and_solutions
-    
+    Top-level directory layout
     .
     ├── scripts                    # Scripts for various process automation (i.e batch image auto-rotation)
         .
